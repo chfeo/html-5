@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="uft8">
+        <title>Carlos Henrique Feo</title>
+    </head>
+    <body>
+        <header>
+            <h1>Carlos Henrique Feo</h1>
+        </header>
+        <section>
+            <reader>
+                <h2>posts</h2>
+            </reader>
+            <article>
+                <header>
+                    <h3>post #1</h3>
+                </header>
+            </article>
+        </section>
+    </body>
+</html>

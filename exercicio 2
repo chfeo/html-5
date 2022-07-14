@@ -3,19 +3,20 @@
     <head>
         <meta charset="uft8">
         <title>Carlos Henrique Feo</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
             <img src="https://www.mensagensdebomdia.com.br/"alt= exemplo de imagem">
-            <h1>Carlos Henrique Feo</h1>
+            <h1 id="title">Carlos Henrique Feo</h1>
         </header>
         <section>
             <reader>
-                <h2>posts</h2>
+                <h2 class="subtitle">posts</h2>
             </reader>
             <article>
                 <header>
-                    <h3>post #1</h3>
+                    <h3 class="posttitle">post #1</h3>
                 </header>
                 <img src="https://www.mensagensdebomdia.com.br/bom-dia-na-paz-de-deus">
                 <p>Google LLC é uma empresa multinacional de serviços online e software dos Estados Unidos. O <a href="https://www.google.com.br/">/a> hospeda e desenvolve uma série de <a href= "mailto:carlosfeo1010@gmail.com">serviços</a> e produtos baseados na internet e gera lucro principalmente através da publicidade pelo AdWords. A Google é a principal subsidiária da Alphabet Inc.</p>

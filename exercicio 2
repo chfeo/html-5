@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="uft8">
@@ -14,7 +14,7 @@
             <reader>
                 <h2 class="subtitle">posts</h2>
             </reader>
-            <article>
+            <article class="post">
                 <header>
                     <h3 class="posttitle">post #1</h3>
                 </header>
